@@ -49,15 +49,34 @@ This project, i.e, Inventory Management System is a comprehensive solution desig
 ![image](https://github.com/user-attachments/assets/8c3eb2a5-75ee-4884-b272-164d3404b894)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Installation
+1. Clone the Repository: git clone https://github.com/Athar-Patel/Inventory_Management_System.git
+2. Set Up the Database:
+      - Create a new database in MySQL.
+      - Import the **"store.sql"** file located in the repository.
+3. Configure Database Connection:
+     - Open the **"db_connect.php"** file located in the "php_action" folder.
+     - Update the database connection settings to match your local setup.
+4. Run the Application:
+    - Place the project files in the root directory of your web server.
+    - Access the application through your browser by navigating to
+      **"http://localhost/Inventory_Management_System/index.php"**
+
+## Contributing
+To contribute, please fork the repository and submit a pull request with your changes. Follow these steps:
+
+a] Click the "Fork" button on GitHub to create your copy of the repository.
+
+b] Create a new branch (git checkout -b feature/YourFeature).
+
+c] Make changes & commit your changes
+    (git add .
+    git commit -m "Add a meaningful commit message")
+
+d] Push your branch (git push origin feature/YourFeature).
+
+e] Open a pull request from your forked repository to the main repository.
 
 
-
-
-
-
-
-
-
-
-
-
+## Contact
+For any questions or feedback, reach out to me at patelathar12@gmail.com
